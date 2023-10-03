@@ -32,6 +32,7 @@ const count = ref(0)
     in your IDE for a better DX
   </p>
   <p class="read-the-docs">Click on the Vite and Vue logos to learn more</p>
+  <router-link to="/login">Login</router-link>
 </template>
 
 <style scoped>
